@@ -1,0 +1,4 @@
+C:\Users\octashop\Documents\Visual Studio 2010\Projects\firstask\firstask\bin\firstask.dll
+C:\Users\octashop\Documents\Visual Studio 2010\Projects\firstask\firstask\bin\firstask.pdb
+C:\Users\octashop\Documents\Visual Studio 2010\Projects\firstask\firstask\obj\Debug\firstask.dll
+C:\Users\octashop\Documents\Visual Studio 2010\Projects\firstask\firstask\obj\Debug\firstask.pdb
